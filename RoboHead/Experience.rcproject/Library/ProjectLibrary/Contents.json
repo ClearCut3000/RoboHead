@@ -1,3 +1,22 @@
 [
-
+  {
+    "libraryIdentifier" : "1e94b27959d44bbea9b3dbf41daf52c9",
+    "format" : "model",
+    "displayName" : "RobotSkull.usdz"
+  },
+  {
+    "libraryIdentifier" : "2e3d78eb5f4447cacc767403cb54d089",
+    "format" : "model",
+    "displayName" : "RobotJaw.usdz"
+  },
+  {
+    "libraryIdentifier" : "daf935158ff2158af2ab58cb7049e364",
+    "format" : "model",
+    "displayName" : "RobotEyeLid.usdz"
+  },
+  {
+    "libraryIdentifier" : "02c55b69b92c66b34fcd26bd30671fbf",
+    "format" : "model",
+    "displayName" : "RobotEye.usdz"
+  }
 ]
